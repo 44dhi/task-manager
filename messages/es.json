@@ -1,0 +1,12 @@
+{
+	"app": {
+		"title": "Maestro de Tareas",
+		"search": {
+			"placeholder": "Buscar tareas...",
+			"button": "Buscar"
+		},
+		"task": {
+			"add": "Añadir Tarea"
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"hello_world": "Hello, {name} from en!",
+	"app": {
+		"title": "Task Master",
+		"search": {
+			"placeholder": "Search Tasks...",
+			"button": "Search"
+		},
+		"task": {
+			"add": "Add Task"
+		}
+	}
+}
