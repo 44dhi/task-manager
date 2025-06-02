@@ -66,13 +66,6 @@
 								<TaskCard {task} />
 							</div>
 						{/each}
-						{#if category.items.length === 0}
-							<div class="flex justify-center h-full">
-								<div
-									class="border-zinc-700 border-dashed border rounded-lg p-3 w-full h-20 cursor-pointer"
-								></div>
-							</div>
-						{/if}
 					</div>
 				</div>
 			{/each}
